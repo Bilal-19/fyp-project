@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fyp-project/static/css/main.0e8034a0.css",
+    "main.js": "/fyp-project/static/js/main.74c15484.js",
+    "static/media/maleProfile.jpg": "/fyp-project/static/media/maleProfile.657c4196488ead649e93.jpg",
+    "index.html": "/fyp-project/index.html",
+    "main.0e8034a0.css.map": "/fyp-project/static/css/main.0e8034a0.css.map",
+    "main.74c15484.js.map": "/fyp-project/static/js/main.74c15484.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e8034a0.css",
+    "static/js/main.74c15484.js"
+  ]
+}
